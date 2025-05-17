@@ -31,10 +31,10 @@ footer {
     background-color: #e16a26;
 }
 
-.article-container {
+.main {
     background-color: #15b87a;
     gap: 0.55em;
-    padding: 0.55em 0.4em;
+    padding: 0.5em 0.25em;
 
 }
 
